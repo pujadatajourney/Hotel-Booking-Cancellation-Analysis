@@ -1,9 +1,11 @@
 # Hotel-Booking-Cancellation-Analysis
 
 Project Overview
+
 This project explores the factors influencing hotel booking cancellations through data analysis. By examining these variables, we can devise strategies to minimize cancellations and help hotels make informed promotional and pricing decisions. This analysis is crucial for enhancing customer satisfaction and optimizing revenue management in the hospitality industry.
 
 Research Questions
+
 What are the variables that affect hotel reservation cancellations?
 
 We explore various factors such as lead time, booking changes, special requests, customer demographics, and market segments to understand their impact on cancellations.
@@ -27,6 +29,10 @@ Promotional Insights: Data-driven promotional and pricing strategies can optimiz
 Tools and Technologies
 
 Programming Language: Python
+
 Data Manipulation: Pandas
+
 Data Visualization: Matplotlib, Seaborn
+
 Notebook Environment: Jupyter Notebook
+
