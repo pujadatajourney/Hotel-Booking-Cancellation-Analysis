@@ -8,11 +8,11 @@ Research Questions-
 
 Q)What are the variables that affect hotel reservation cancellations?
 
-We explore various factors such as lead time, booking changes, special requests, customer demographics, and market segments to understand their impact on cancellations.
+By exploring various factors such as lead time, booking changes, special requests, customer demographics, and market segments to understand their impact on cancellations.
 
 Q)How can we make hotel reservation cancellations better?
 
-We propose strategies for reducing cancellations, including improved customer communication, flexible booking options, and targeted marketing efforts based on predictive analytics.
+By proposing strategies for reducing cancellations, including improved customer communication, flexible booking options, and targeted marketing efforts based on predictive analytics.
 
 Q)How will hotels be assisted in making and pricing promotional decisions?
 
